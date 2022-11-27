@@ -1,0 +1,5 @@
+name: FlyAbility
+version: '${project.version}'
+main: com.foxdev.flyability.FlyAbility
+api-version: 1.13
+author: FoxxyBlade
